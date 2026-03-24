@@ -12,9 +12,12 @@ public class Ex05 {
 			int n=s.nextInt();
 			tab[i]=n;
 		}
+		System.out.print("[");
 		for(int j=0;j<taille;j++)
 			System.out.print(tab[j]);
+			System.out.print(",");
 
 	}
+		System.out.print("]");
 
 }
