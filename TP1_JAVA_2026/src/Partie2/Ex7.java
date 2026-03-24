@@ -22,7 +22,7 @@ public class Ex7 {
 				}
 				
 			}
-			System.out.println(max);
+			System.out.println("le max est :"+max);
 			
 
 	}
